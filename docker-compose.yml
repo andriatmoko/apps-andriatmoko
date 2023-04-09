@@ -3,4 +3,4 @@ services:
   web:
     image: andriatmoko/apps-andraitmoko
     port:
-      - "10000:80"
+      - "80:80"
