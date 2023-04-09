@@ -1,6 +1,6 @@
 version: '3.9'
 services:
   web:
-    image: andriatmoko/apps-andraitmoko
+    image: andriatmoko/apps-andriatmoko
     ports:
       - "80:80"
